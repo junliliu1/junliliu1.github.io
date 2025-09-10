@@ -1,7 +1,9 @@
 ---
-title: "mywebsite"
+title: "welcome to my website"
 ---
 
-This is a Quarto website.
+# Hi, I’m JunLi liu 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m a data science student from UBC
+
+This website is my space to share projects and ideas.
